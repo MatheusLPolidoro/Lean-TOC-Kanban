@@ -1,0 +1,18 @@
+metrica = total de pontos
+indicador = quantidade de pontos em determinado tempo
+meta = total a ser atingido
+
+eficiencia = velocidade de produção e tempo de entrega
+eficácia = resultado para sanar os problemas do cliente
+
+livro: goldratt -> a meta (sobre teoria das restrições)
+
+
+sistema empurrado = RUIM
+
+sistema puxado = BOM
+
+livro: A ciência da FABRICA (sobre indicadores/metricas/metas)
+
+indicador média de tempo de inicio até o fim de uma história (Lead time)
+
